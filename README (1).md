@@ -19,7 +19,7 @@ I have deployed this project using Vercel . The one of the most easiest deployme
 
 ## 🔗 Links
 Click on this link to visit my site
-[https://parallex-website-gilt.vercel.app/](https://katherineoelsner.com/)
+[https://parallex-website-gilt.vercel.app/](https://parallex-website-gilt.vercel.app/)
 
 
 
